@@ -1,0 +1,2 @@
+# MAGNIFIC
+MAGNIFIC Website
