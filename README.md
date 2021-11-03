@@ -1,2 +1,1 @@
-# MAGNIFIC
-MAGNIFIC Website
+![magnific-logo](./git_src/img/magnific-logo.jpeg)
