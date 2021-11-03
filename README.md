@@ -2,4 +2,4 @@
 
 # MAGNIFIC website
 
-Website for custumers and investors.
+Website for customers and investors.
